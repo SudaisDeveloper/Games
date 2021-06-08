@@ -1,3 +1,8 @@
-# fashion-shopping-website-layout
+# Snake Game-2 🐍
 
-MODERN WEB DESIGN TUTORIAL : https://youtu.be/99T6CZ5B3vM
+
+Thanks,
+[Sudais Coder](https://www.youtube.com/c/SudaisCoder)
+
+![preview]
+(https://github.com/SudaisDeveloper/Games/blob/0e3410177959667f9750ccaaa0868ea56a122463/Snake%20Game-2/preview.webp)
