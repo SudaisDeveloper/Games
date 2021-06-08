@@ -4,5 +4,4 @@
 Thanks,
 [Sudais Coder](https://www.youtube.com/c/SudaisCoder)
 
-![preview]
-(https://github.com/SudaisDeveloper/Games/blob/0e3410177959667f9750ccaaa0868ea56a122463/Snake%20Game-2/preview.webp)
+![preview](https://github.com/SudaisDeveloper/Games/blob/79f29d0903b15109bf3eef7e93de1ca43537fbb4/Snake%20Game-2/preview.jpg)
