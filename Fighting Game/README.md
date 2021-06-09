@@ -1,7 +1,7 @@
-# Snake Game-3 🐍
+# Fighting Game
 
 
 Thanks,
 [Sudais Coder](https://www.youtube.com/c/SudaisCoder)
 
-![preview](https://github.com/SudaisDeveloper/Games/blob/4d571eca8f64fcea740fd0ebd8a571a59411d566/Snake%20Game-3/preview.jpg)
+![preview](https://github.com/SudaisDeveloper/Games/blob/fe83a4023c55cb404ea48aab0b5508402ece7b3e/Fighting%20Game/preview.png)
